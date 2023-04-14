@@ -1,0 +1,6 @@
+﻿  test.cpp
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+test.obj : warning LNK4006: "void __cdecl CreateList(struct Node * &,int)" (?CreateList@@YAXAEAPEAUNode@@H@Z) 已在 huan.obj 中定义；已忽略第二个定义
+test.obj : warning LNK4006: "void __cdecl DeleteList(struct Node * &,int,int)" (?DeleteList@@YAXAEAPEAUNode@@HH@Z) 已在 huan.obj 中定义；已忽略第二个定义
+F:\C语言\作业\数据结构作业\陈老师\实验8，线性表的应用--约瑟夫环\x64\Debug\实验8，线性表的应用--约瑟夫环.exe : warning LNK4088: 因 /FORCE 选项生成了映像；映像可能不能运行
+  实验8，线性表的应用--约瑟夫环.vcxproj -> F:\C语言\作业\数据结构作业\陈老师\实验8，线性表的应用--约瑟夫环\x64\Debug\实验8，线性表的应用--约瑟夫环.exe

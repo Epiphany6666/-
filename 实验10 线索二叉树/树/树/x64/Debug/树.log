@@ -1,0 +1,5 @@
+﻿  test.cpp
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+test.obj : warning LNK4006: "struct node * pre" (?pre@@3PEAUnode@@EA) 已在 bitree.obj 中定义；已忽略第二个定义
+F:\C语言\作业\数据结构作业\陈老师\实验10 线索二叉树\树\x64\Debug\树.exe : warning LNK4088: 因 /FORCE 选项生成了映像；映像可能不能运行
+  树.vcxproj -> F:\C语言\作业\数据结构作业\陈老师\实验10 线索二叉树\树\x64\Debug\树.exe

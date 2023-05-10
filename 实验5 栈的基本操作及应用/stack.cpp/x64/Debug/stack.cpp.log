@@ -1,0 +1,19 @@
+﻿  text _2.c
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(33,31): error C2143: 语法错误: 缺少“)”(在“&”的前面)
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(33,31): error C2143: 语法错误: 缺少“{”(在“&”的前面)
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(33,31): error C2059: 语法错误:“&”
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(33,33): error C2059: 语法错误:“)”
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(44,6): error C2061: 语法错误: 标识符“stackempty”
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(44,6): error C2059: 语法错误:“;”
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(44,24): error C2059: 语法错误:“<parameter-list>”
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(52,6): warning C4013: “stackempty”未定义；假设外部返回 int
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(71,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(74,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(91,3): warning C4013: “pop”未定义；假设外部返回 int
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(92,19): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(82,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(116,13): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(151,13): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(172,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“elemtype *”
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(172,8): message : 请考虑在格式字符串中使用“%hhd”
+F:\C语言\作业\数据结构作业\陈老师\实验五 栈的基本操作及应用\stack.cpp\text _2.c(172,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

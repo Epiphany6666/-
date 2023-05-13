@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AdjGraph", "AdjGraph.vcxproj", "{618BB232-6DC9-4EBD-8A30-A3CCC2A576E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{618BB232-6DC9-4EBD-8A30-A3CCC2A576E0}.Debug|x64.ActiveCfg = Debug|x64
+		{618BB232-6DC9-4EBD-8A30-A3CCC2A576E0}.Debug|x64.Build.0 = Debug|x64
+		{618BB232-6DC9-4EBD-8A30-A3CCC2A576E0}.Debug|x86.ActiveCfg = Debug|Win32
+		{618BB232-6DC9-4EBD-8A30-A3CCC2A576E0}.Debug|x86.Build.0 = Debug|Win32
+		{618BB232-6DC9-4EBD-8A30-A3CCC2A576E0}.Release|x64.ActiveCfg = Release|x64
+		{618BB232-6DC9-4EBD-8A30-A3CCC2A576E0}.Release|x64.Build.0 = Release|x64
+		{618BB232-6DC9-4EBD-8A30-A3CCC2A576E0}.Release|x86.ActiveCfg = Release|Win32
+		{618BB232-6DC9-4EBD-8A30-A3CCC2A576E0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCC0333B-0292-498E-8C3F-116E71EB17F1}
+	EndGlobalSection
+EndGlobal

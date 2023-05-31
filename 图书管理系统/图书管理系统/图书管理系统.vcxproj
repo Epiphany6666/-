@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0eaa0a03-6c30-4df4-85ba-555d386bb193}</ProjectGuid>
+    <ProjectGuid>{dd3e851b-1e8f-44e8-bcae-7bedf3b483d2}</ProjectGuid>
     <RootNamespace>图书管理系统</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -108,6 +108,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <StackReserveSize>10000000000</StackReserveSize>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -127,13 +128,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="LibrarianList.cpp" />
-    <ClCompile Include="Library.cpp" />
-    <ClCompile Include="test.cpp" />
-    <ClCompile Include="UserList.cpp" />
+    <ClInclude Include="Library.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Library.h" />
+    <ClCompile Include="Libralian.cpp" />
+    <ClCompile Include="Library.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="User.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

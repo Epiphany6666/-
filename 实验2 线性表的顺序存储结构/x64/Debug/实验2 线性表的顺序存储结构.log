@@ -1,0 +1,9 @@
+﻿  sqlist.cpp
+test.obj : error LNK2005: "void __cdecl deletelist(struct Node *,int,char)" (?deletelist@@YAXPEAUNode@@HD@Z) 已经在 sqlist.obj 中定义
+test.obj : error LNK2005: "void __cdecl displist(struct Node *)" (?displist@@YAXPEAUNode@@@Z) 已经在 sqlist.obj 中定义
+test.obj : error LNK2005: "void __cdecl dispposition(struct Node *,char)" (?dispposition@@YAXPEAUNode@@D@Z) 已经在 sqlist.obj 中定义
+test.obj : error LNK2005: "void __cdecl getlist(struct Node *,int,char *)" (?getlist@@YAXPEAUNode@@HPEAD@Z) 已经在 sqlist.obj 中定义
+test.obj : error LNK2005: "void __cdecl initlist(struct Node * &)" (?initlist@@YAXAEAPEAUNode@@@Z) 已经在 sqlist.obj 中定义
+test.obj : error LNK2005: "void __cdecl insertlist(struct Node * &,int,char)" (?insertlist@@YAXAEAPEAUNode@@HD@Z) 已经在 sqlist.obj 中定义
+test.obj : error LNK2005: "void __cdecl listempty(struct Node *)" (?listempty@@YAXPEAUNode@@@Z) 已经在 sqlist.obj 中定义
+F:\C语言\wk\实验2 线性表的顺序存储结构\x64\Debug\实验2 线性表的顺序存储结构.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

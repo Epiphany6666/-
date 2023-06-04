@@ -1,0 +1,3 @@
+﻿  test.cpp
+test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl DeleteElem(struct SqList * &,int)" (?DeleteElem@@YAXAEAPEAUSqList@@H@Z)，函数 main 中引用了该符号
+E:\my\数据结构作业\陈老师\实验2 线性表的顺序存储结构\第二次重敲\x64\Debug\第二次重敲.exe : fatal error LNK1120: 1 个无法解析的外部命令
